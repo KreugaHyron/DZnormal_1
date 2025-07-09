@@ -1,0 +1,8 @@
+import './style.css'
+import './services/MovieService.js'
+import './components/LoadingSpinner.js'
+import './components/MovieSearchForm.js'
+import './components/MovieItem.js'
+import './components/MovieList.js'
+import './components/MovieModal.js'
+import './components/MovieApp.js'
